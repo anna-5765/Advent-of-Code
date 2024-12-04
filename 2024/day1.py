@@ -1,4 +1,4 @@
-## Day 1
+## Day 1 - Historian Hysteria
 
 import numpy as np
 
@@ -28,4 +28,4 @@ for x in left_list:
     sim_score += x * count
     count = 0
 
-print(sim_score)
+print(sim_score) # part 2 answer
